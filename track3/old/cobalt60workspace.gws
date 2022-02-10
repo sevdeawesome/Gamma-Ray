@@ -1,0 +1,17 @@
+[Datasource]
+ShowAll=0
+CurrentDS=GAMMA_GE
+OpenNames=DS1
+[Datasource.DS1]
+DSName=GAMMA_GE
+ROIName=
+DSCType=769
+DSServerType=B
+DSServerName=\pipe\datasrce
+DSReadOnly=0
+[Display]
+ScaleIsAuto=0
+ScaleIsLinear=1
+Expand=1
+Compare=0
+CompareDS=
